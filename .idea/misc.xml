@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/Pertemuan 6/Mobile Programming/pasyaariqp6/app/src/main/res/layout/activity_alert.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/Pertemuan 6/Mobile Programming/pasyaariqp6/app/src/main/res/layout/activity_hitung_vokal.xml" value="0.16" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/Pertemuan 6/Mobile Programming/pasyaariqp6/app/src/main/res/layout/activity_list_detail.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/Pertemuan 6/Mobile Programming/pasyaariqp6/app/src/main/res/layout/activity_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/Pertemuan 6/Mobile Programming/pasyaariqp6/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/Pertemuan 6/Mobile Programming/pasyaariqp6/app/src/main/res/layout/activity_shape_cell.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/UTS/Mobile Programming/pasyaariquts/app/src/main/res/layout/activity_alert.xml" value="0.136" />
+        <entry key="..\:/Users/Pasya Ariq/Documents/Semester 6/UTS/Mobile Programming/pasyaariquts/app/src/main/res/layout/activity_list_detail.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

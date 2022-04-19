@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.pasyaariqp6">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Pasya Ariq UTS"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.pasyaariqp6.activity_hitung_vokal"
+            tools:ignore="Instantiatable" />
+        <activity android:name="com.example.pasyaariqp6.activity_list_detail" />
+        <activity android:name="com.example.pasyaariqp6.shape_cell"
+            tools:ignore="Instantiatable" />
+        <activity android:name="com.example.pasyaariqp6.activity_listview"
+            tools:ignore="Instantiatable" />
+        <activity android:name="com.example.pasyaariqp6.activity_alert"
+            tools:ignore="Instantiatable" />
+        <activity android:name="com.example.pasyaariqp6.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
